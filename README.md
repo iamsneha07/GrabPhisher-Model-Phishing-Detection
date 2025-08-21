@@ -6,7 +6,7 @@ This project implements **GrabPhisher**, a phishing detection pipeline using **g
 
 ---
 
-## Key Features  
+## ➡️ Key Features  
 ✔ **Builds Transaction Graph** from CSV data  
 ✔ **Node Embeddings with Node2Vec** for feature representation  
 ✔ **Graph Construction & Analysis** using NetworkX  
